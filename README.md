@@ -4,7 +4,7 @@
 </i>
 
 ![StellarDX Astronomy Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StellarDX&bg_color=1C265B&color=FEE2DF&line=CBE5F6&point=FF997A&area=true&hide_border=true)
-[![丹霞天文 | StellarDX Astronomy](https://github-readme-stats.vercel.app/api?username=StellarDX)](https://github.com/anuraghazra/github-readme-stats)
+[![丹霞天文 | StellarDX Astronomy](https://github-readme-stats.vercel.app/api?username=StellarDX&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 我虽无意逐鹿，却知苍生苦楚；<br>
 惟愿荡涤四方，护得浮世一隅。
