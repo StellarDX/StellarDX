@@ -5,9 +5,9 @@
 
 <div align=center>
 
-[![StellarDX Astronomy Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StellarDX&bg_color=1C265B&color=FEE2DF&line=CBE5F6&point=FF997A&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![丹霞天文 | StellarDX Astronomy](https://github-readme-stats.vercel.app/api?username=StellarDX&theme=vue-dark&area=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarDX&hide=scala,SuperCollider&layout=donut&theme=vue-dark&area=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![StellarDX Astronomy Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StellarDX&bg_color=1C265B&color=FEE2DF&line=CBE5F6&point=FF997A&area=true&hide_border=true&locale=CN)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![丹霞天文 | StellarDX Astronomy](https://github-readme-stats.vercel.app/api?username=StellarDX&theme=vue-dark&area=true&hide_border=true&rank_icon=github&locale=CN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarDX&hide=scala,SuperCollider&layout=donut&theme=vue-dark&area=true&hide_border=true&locale=CN)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
