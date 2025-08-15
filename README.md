@@ -10,7 +10,7 @@
 
 <div align=center>
 <div><a href=https://github.com/Ashutosh00710/github-readme-activity-graph>
-<img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=StellarDX&bg_color=1C265B&color=FEE2DF&line=CBE5F6&point=FF997A&area=true&hide_border=true&locale=CN">
+<img width=99.81% src="https://github-readme-activity-graph.vercel.app/graph?username=StellarDX&bg_color=1C265B&color=FEE2DF&line=CBE5F6&point=FF997A&area=true&hide_border=true&locale=CN">
 </a></div>
 
 <div width=100%>
